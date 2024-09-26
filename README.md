@@ -1,1 +1,1 @@
-# ata-mediacal
+# ata-medical
